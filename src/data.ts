@@ -14,11 +14,6 @@ const AccordionData = [
         title: "accodion item 3",
         content: "descrição do Terceiro acordion"
     },
-    {
-        id: 4,
-        title: "accodion item 4",
-        content: "descrição do Quarto acordion"
-    },
     // mais itens
 ];
 export default AccordionData;
