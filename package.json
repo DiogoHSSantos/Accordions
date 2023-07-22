@@ -1,9 +1,9 @@
 {
-  "homepage": "https://diogohssantos.github.io/Accordions/",
   "name": "acordions",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://diogohssantos.github.io/Accordions",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
